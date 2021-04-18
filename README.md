@@ -1,12 +1,11 @@
 # C4 Documetation
 
 
+This is a companion website for our paper [Documenting the English Colossal Clean Crawled Corpus](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf).
+We present some of the first documentation for the contents of the Colossal
+Clean Crawled Corpus (C4), a massive web-crawled dataset used for pretraining large language models like [T5](https://arxiv.org/abs/1910.10683).
 
-This website is a link for  for documenting the contents of the Colossal
-Clean Crawled Corpus (C4), used to train the [T5 pre-trained language
-model](https://arxiv.org/abs/1910.10683).
 
-We provide some documentation for the contents of C4 in our paper, [Documenting the English Colossal Clean Crawled Corpus](http://www.cs.cmu.edu/~jessed/data_hosting/documenting_c4.pdf).
 
 ## Accessing C4
 
