@@ -1,14 +1,14 @@
 # C4 Documetation
 
-This website contains analysis code and other resources for documenting the contents of the Colossal
+This website is a link for  for documenting the contents of the Colossal
 Clean Crawled Corpus (C4), used to train the [T5 pre-trained language
-model](https://arxiv.org/abs/1910.10683).  Our analysis was described in the paper, [(LINK
-TODO)](#TODO).
+model](https://arxiv.org/abs/1910.10683). 
+
 
 ## Accessing C4
 
 *Raw data download:* If you want to download C4 to run your own analysis on it, we have made the raw
-C4 data available to download [here (LINK TODO)](#TODO).
+C4 data available to download [here (LINK TODO)](#https://github.com/allenai/allennlp/discussions/5056).
 
 *Search index:* If you just want to browse through the data using a search engine, we have made a
 simple website to do so [here (LINK TODO)](#TODO).
